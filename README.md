@@ -76,6 +76,9 @@ Download the desired project file and remix it as you want!
 
 ![](https://img.shields.io/badge/-Project%20Page-purple) [Project page](https://summerofcode.withgoogle.com/programs/2024/projects/stGRYSyd)
 
+
+![](https://img.shields.io/badge/-Document%20Plan-red) [Document Plan](https://docs.google.com/document/d/1Ed2yRvKh4cpIye-GOWNVKcanlIRPxshFMw24KbGmkNo/edit?usp=sharing)
+
 ![](https://img.shields.io/badge/-Source%20Code-black) [Source Code](https://drive.google.com/drive/folders/1HQ1kfz2jnSTxMK0bQ8HD-1SI1ApuvquE?usp=drive_link)
 
 ![](https://img.shields.io/badge/-MORE%20CONTENT-blue) [sabithuraira](https://share.catrob.at/app/user/f9cf4e41-d0d2-47e4-b50e-4fd2c7f0ba5c)
