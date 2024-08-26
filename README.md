@@ -73,7 +73,7 @@ Download the desired project file and remix it as you want!
 ![](https://img.shields.io/badge/-Game-green) [Super Mario Bros](https://share.catrob.at/app/project/a500c94d-eaf6-48a0-945f-22304cead5b7)
 
 
-![](https://img.shields.io/badge/-Video%20Demo-cyan) [Video Demo](https://drive.google.com/drive/folders/1P8od2kWUHqjvjiBy5e9GTgJJ2HUSCL56?usp=drive_link)
+![](https://img.shields.io/badge/-Video%20Demo-cyan) [Video Demo](https://drive.google.com/file/d/1rD_rLND2ibNvnSN8pb-7H3BudeeL920g/view?usp=drivesdk)
 
 
 ![](https://img.shields.io/badge/-Project%20Page-purple) [Project page](https://summerofcode.withgoogle.com/programs/2024/projects/stGRYSyd)
