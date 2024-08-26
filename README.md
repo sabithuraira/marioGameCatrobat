@@ -64,6 +64,8 @@ Thank you mentors Aakash Tyagi, Dev Sebastian and Catrobat for the support. From
 The project files (.catrobat files) created during this summer are uploaded. All the assets are accordingly uploaded under :assets: folder. 
 The(.catrobat) file can be imported into your Pocket Code app.
 
+To see the game development history from both video and source code perspectives, you can see the link provided in this description.
+
 Download the desired project file and remix it as you want!
 
 ⭐ **Catrobat community** ⭐
